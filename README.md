@@ -1,4 +1,4 @@
-# Java-Assignment-2
+# Java-Assignment-1
 
 This is my assignment 1 done in Power Learn Project Schorlaship (PLP) -AI Safari.............
 
